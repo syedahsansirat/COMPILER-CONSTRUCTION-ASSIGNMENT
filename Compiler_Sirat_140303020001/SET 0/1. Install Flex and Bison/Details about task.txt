@@ -1,0 +1,5 @@
+Sir, I have installed Flex and Bison with a folder named GnuWin32 in my C drive of Computer.
+
+---------
+//Sirat
+

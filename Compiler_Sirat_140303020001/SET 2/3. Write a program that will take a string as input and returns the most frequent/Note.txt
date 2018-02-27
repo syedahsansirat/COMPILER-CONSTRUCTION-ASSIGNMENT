@@ -1,0 +1,5 @@
+I Collected this Program, But I Have little problem in Hashing.
+But I Think i can do this with Java 
+Split() and
+contain()
+method with running a loop.

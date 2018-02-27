@@ -1,0 +1,6 @@
+0.	setup enviornment 
+1. 	First Make a Main.java file
+2. 	to compile open cmd(Shift+rmb) type "javac Main.java".
+3. 	a name.class file woill be create
+4. 	open it with "java Main".(not the extention) 
+//Sirat

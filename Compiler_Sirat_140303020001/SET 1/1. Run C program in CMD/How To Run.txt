@@ -1,0 +1,10 @@
+0.	Set up the Compiler and environment.
+1.	Write C program and save with c extention.
+2.	shift+Right_Click Open CMD here.
+3. 	Write the Command:
+	
+	gcc program.c -o program.exe
+
+4.	Then Run program.exe.
+
+//Sirat

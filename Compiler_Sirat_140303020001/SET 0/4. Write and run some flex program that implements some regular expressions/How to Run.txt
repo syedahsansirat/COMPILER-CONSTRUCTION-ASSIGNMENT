@@ -1,0 +1,8 @@
+Those are command to convert lex file to C and then to exe.
+
+flex -olex.c lex.l
+gcc lex.c -olex.exe
+lex.exe
+
+here the file name is lex.
+//Sirat

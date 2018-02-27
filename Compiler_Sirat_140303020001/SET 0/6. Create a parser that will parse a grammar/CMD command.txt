@@ -1,0 +1,3 @@
+"bison -doparser.c parser.y"
+"gcc lex.c parser.c -oparser.exe"
+"parser.exe"
